@@ -19,6 +19,13 @@ Kami merancang sebuah website yang menyediakan solusi lengkap untuk kebutuhan pa
 - Sistem pembayaran masih semi manual.
 
 ---
+## Solusi Yang Ditawarkan
+- Merancang website yang user friendly
+- Membuat website yang memiliki fitur melihat perkembangan pasien
+- Membuat website yang memiliki fitur melihat riwayat penyakit pasien
+- Membuat sistem pembayaran digital
+
+---
 ## Penjelasan Actor, Use Case, ERD, Class Diagram, Struktur Website, dan Wireframe
 
 ### Actor yang menggunakan:
