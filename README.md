@@ -58,7 +58,7 @@ Kamy Physio menyediakan kwitansi dengan format yang mudah dipahami dan dibaca. H
 [Klik Untuk Melihat Penjelasan Link Youtube](https://youtu.be/R_GqFhUbW_4?si=azN-aUyQZIy9vSFW)
 
 ### Sequence
-
+![WhatsApp Image 2024-06-18 at 22 37 53_c7717740](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145968943/f1f5da2e-09be-4bb3-ace3-ec4689c3470a)
 
 ---
 
