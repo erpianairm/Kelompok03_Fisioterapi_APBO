@@ -41,15 +41,15 @@ Kami merancang sebuah website yang menyediakan solusi lengkap untuk kebutuhan pa
 ### Use Case:
 ![WhatsApp Image 2024-04-23 at 08 37 11_d0b67ad7](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145968943/daead24d-6e88-4437-87a5-b2cb4dc20bc8)
 
+### Sequence Diagram
+![sequencediagram_v3](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145976346/dcd76fef-cd53-4272-b445-5609d46d4bdf)
+
 ### Kwitansi
 ![image](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145961029/9089b6c1-a1ac-4667-8423-672caf8a309c)
 Kamy Physio menyediakan kwitansi dengan format yang mudah dipahami dan dibaca. Hal ini dilakukan untuk memastikan transparansi setiap pembayaran dan memudahkan pasien memahami detail transaksi. Selain itu, kami tahu bahwa setiap praktik fisioterapi memiliki kebutuhan unik. Oleh karena itu, format kwitansi ini fleksibel sehingga dapat disesuaikan dengan kebutuhan unik setiap praktik. Ini memastikan bahwa kwitansi yang dikeluarkan tidak hanya informatif tetapi juga relevan dengan prosedur bisnis dan kebijakan praktik fisioterapi yang berlaku.
 
 ### ERD (Entity Relationship Diagram):
 ![WhatsApp Image 2024-04-14 at 20 23 17_9655ccc6](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145968943/d2cc7b02-4296-417c-bb9a-efb8bc1075cb)
-
-### Sequence Diagram
-![sequencediagram_v3](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145976346/dcd76fef-cd53-4272-b445-5609d46d4bdf)
 
 ### Class Diagram:
 ![fisioterapi-classdiagram](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145968943/6b4e98dd-cde5-47ff-81ea-bd4de038fd38)
