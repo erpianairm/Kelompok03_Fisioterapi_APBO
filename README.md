@@ -42,11 +42,14 @@ Kami merancang sebuah website yang menyediakan solusi lengkap untuk kebutuhan pa
 ![WhatsApp Image 2024-04-23 at 08 37 11_d0b67ad7](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145968943/daead24d-6e88-4437-87a5-b2cb4dc20bc8)
 
 ### Sequence Diagram
-PASIEN
+### PASIEN
+
 ![sequencediagram_v3](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145976346/dcd76fef-cd53-4272-b445-5609d46d4bdf)
-ADMIN
+### ADMIN
+
 ![WhatsApp Image 2024-07-10 at 09 55 36_55bb5b12](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145976346/fa4b357a-f53e-43a1-8fa3-697a3592d995)
-FISIOTERAPIS
+### FISIOTERAPIS
+
 ![WhatsApp Image 2024-07-10 at 09 58 25_b368c85e](https://github.com/erpianairm/Kelompok03_Fisioterapi_APBO/assets/145976346/761cbf11-7874-4101-8e94-1ac73d6102b8)
 
 
